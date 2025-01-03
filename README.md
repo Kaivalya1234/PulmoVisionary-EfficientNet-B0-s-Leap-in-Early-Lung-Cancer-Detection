@@ -81,7 +81,7 @@ Google Chrome (for Colab)
 IQ-OTH/NCCD Lung Cancer Dataset (CT scans in DICOM/JPG format)
 
 Preprocessing tools for resizing and normalizing images
-[Dataset](https://www.example.com) 
+[Dataset](https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset) 
 
 
 
